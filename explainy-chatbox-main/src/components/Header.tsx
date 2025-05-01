@@ -29,7 +29,7 @@ export const Header = ({ toggleSidebar }: HeaderProps) => {
       
       <div className="flex-1 flex items-center gap-2">
         <MessageSquare className="h-5 w-5 text-primary" />
-        <h1 className="text-lg font-semibold">Explainy Chatbox</h1>
+        <h1 className="text-lg font-semibold">ExplainX Chatbox</h1>
       </div>
       
       <Button variant="ghost" size="icon" onClick={handleLogout} title="Logout">

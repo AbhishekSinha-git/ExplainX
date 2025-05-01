@@ -96,7 +96,7 @@ export const Sidebar = ({
       <SidebarContent>
         <SidebarHeader>
           <div className="flex items-center justify-between p-2">
-            <h2 className="font-medium text-lg">Explainy</h2>
+            <h2 className="font-medium text-lg">ExplainX</h2>
             <Button 
               variant="ghost" 
               size="icon" 
