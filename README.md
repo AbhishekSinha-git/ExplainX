@@ -3,6 +3,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 This document provides a detailed overview of the Explainy Chatbox frontend application, built with React, TypeScript, Vite, and Shadcn UI.
+![UI](https://github.com/user-attachments/assets/a87e2786-f1aa-416b-8f8b-d20302c327e3)
+
 
 ## 1. Project Overview
 
