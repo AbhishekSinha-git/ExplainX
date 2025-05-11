@@ -209,5 +209,6 @@ The frontend communicates with the backend API (running typically on `http://loc
 - Implement `useMutation` from Tanstack Query for sending messages and deleting chats for cleaner state handling.
 - Add more robust error handling and user feedback.
 - Implement real-time updates (e.g., using WebSockets) if multiple users or sessions are a future goal.
+- Use context embedding to reduce Model hallucination
 - Add unit and integration tests.
 - Refine the `@` mention dropdown UI/UX (e.g., filtering documents as the user types after `@`).
