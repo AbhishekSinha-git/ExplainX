@@ -7,7 +7,13 @@ This document provides a detailed overview of the Explainy Chatbox frontend appl
 
 
 ## 1. Project Overview
-
+The Explainy Chatbox frontend provides a modern, interactive user interface for users to:
+- Upload documents (PDF, Word).
+- View and manage uploaded documents.
+- Engage in conversations with an AI assistant (powered by a backend using Groq) to ask questions about the content of the uploaded documents.
+- Target specific documents for questions using an `@` mention system.
+- View and manage past chat history.
+- Authenticate to access the application.
 
 
 ## 2. Core Features
